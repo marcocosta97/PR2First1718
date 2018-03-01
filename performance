@@ -1,0 +1,10 @@
+Some of the obtained calibration data is as follows:
+
+Approximate time in one methodEntry()/methodExit() call pair:
+When getting absolute timestamp only: 0,0904 microseconds
+When getting thread CPU timestamp only: 0,3872 microseconds
+When getting both timestamps: 0,4295 microseconds
+
+Approximate time in one methodEntry()/methodExit() call pair
+in sampled instrumentation mode: 0,0838 microseconds
+
